@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\SpriteFont1.xnb</Output>
+      <Time>2011-11-13T22:02:52.171875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>car.png</Source>
+      <Name>car</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\car.xnb</Output>
+      <Time>2011-11-09T22:04:55.75+01:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\smoke.xnb</Output>
+      <Time>2011-11-11T20:23:46.0625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>drift.wav</Source>
+      <Name>drift</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\drift.xnb</Output>
+      <Time>2011-11-12T11:29:20.40625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>motor.wav</Source>
+      <Name>motor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\motor.xnb</Output>
+      <Time>2011-11-12T12:35:19.5625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ethnocentric.spritefont</Source>
+      <Name>Ethnocentric</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\Ethnocentric.xnb</Output>
+      <Time>2011-11-13T12:55:03.78125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\road-dirt-0.png</Source>
+      <Name>Tiles\road-dirt-0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\Tiles\road-dirt-0.xnb</Output>
+      <Time>2011-11-10T20:11:04.453125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\road-dirt-1.png</Source>
+      <Name>Tiles\road-dirt-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\Tiles\road-dirt-1.xnb</Output>
+      <Time>2011-11-10T20:11:04.453125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\dirt.png</Source>
+      <Name>Tiles\dirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\Tiles\dirt.xnb</Output>
+      <Time>2011-11-10T21:23:05.546875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\road-2.png</Source>
+      <Name>Tiles\road-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\Tiles\road-2.xnb</Output>
+      <Time>2011-11-10T21:29:42.40625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\road-3.png</Source>
+      <Name>Tiles\road-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\Tiles\road-3.xnb</Output>
+      <Time>2011-11-10T21:29:42.421875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\road-4.png</Source>
+      <Name>Tiles\road-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\Tiles\road-4.xnb</Output>
+      <Time>2011-11-10T21:29:42.421875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\road-5.png</Source>
+      <Name>Tiles\road-5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\Tiles\road-5.xnb</Output>
+      <Time>2011-11-10T21:29:42.390625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\road-dirt-2.png</Source>
+      <Name>Tiles\road-dirt-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\Tiles\road-dirt-2.xnb</Output>
+      <Time>2011-11-10T21:29:42.40625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\road-dirt-3.png</Source>
+      <Name>Tiles\road-dirt-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\Tiles\road-dirt-3.xnb</Output>
+      <Time>2011-11-10T21:29:42.40625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\road-dirt-4.png</Source>
+      <Name>Tiles\road-dirt-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\Tiles\road-dirt-4.xnb</Output>
+      <Time>2011-11-10T21:29:42.40625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\road-dirt-5.png</Source>
+      <Name>Tiles\road-dirt-5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\Tiles\road-dirt-5.xnb</Output>
+      <Time>2011-11-10T21:29:42.40625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>title.png</Source>
+      <Name>title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\title.xnb</Output>
+      <Time>2011-11-14T18:02:15.640625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bgtitle.png</Source>
+      <Name>bgtitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\bgtitle.xnb</Output>
+      <Time>2011-11-13T13:45:10.34375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>broumbroum__sf3-sfx-menu-select.wav</Source>
+      <Name>broumbroum__sf3-sfx-menu-select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\broumbroum__sf3-sfx-menu-select.xnb</Output>
+      <Time>2011-11-13T18:36:46.625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>runnerpack__menusel.wav</Source>
+      <Name>runnerpack__menusel</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\runnerpack__menusel.xnb</Output>
+      <Time>2011-11-13T18:36:46.625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>speedway.wav</Source>
+      <Name>speedway</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\speedway.xnb</Output>
+      <Time>2011-11-14T18:12:53.0625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainmenu.mp3</Source>
+      <Name>mainmenu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\mainmenu.xnb</Output>
+      <Extra>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\mainmenu.wma</Extra>
+      <Time>2011-11-14T20:06:37.125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>track.mp3</Source>
+      <Name>track</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\track.xnb</Output>
+      <Extra>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\track.wma</Extra>
+      <Time>2011-11-14T20:43:15.390625+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>H:\Proyectos\XNA Game\XNA Game\XNA GameContent\</RootDirectory>
+      <LoggerRootDirectory>H:\Proyectos\XNA Game\XNA Game\XNA Game\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\Proyectos\XNA Game\XNA Game\XNA GameContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>H:\Proyectos\XNA Game\XNA Game\XNA Game\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Archivos de programa\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Archivos de programa\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Archivos de programa\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Archivos de programa\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Archivos de programa\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Archivos de programa\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-10-05T13:43:08.796875+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
